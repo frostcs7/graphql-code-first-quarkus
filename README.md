@@ -1,4 +1,5 @@
-# microprofile-graphql-quickstart
+# graphql-code-first-quarkus
+Quarkus based code first graphql code
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
